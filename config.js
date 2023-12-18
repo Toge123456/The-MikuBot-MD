@@ -11,20 +11,18 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a ⋅.━━━━ ⊰
 
 global.owner = [ 
-['5492266466080', '𝙇𝙤𝙡𝙞𝘽𝙤𝙩', true],
-['573026191480', '𝙇𝙤𝙡𝙞𝘽𝙤𝙩', true],
-['593968585383'],
-['5217294888993'],
-['5492266466080'], 
-['595985451858'],
-['5492266613038']]
+['595994836199', '𝙈𝙞𝙠𝙪𝘽𝙤𝙩', true],
+['595986637644', '𝙈𝙞𝙠𝙪𝘽𝙤𝙩', true],
+['595982216131'],
+['595971253989'],
+['595991230630']]
 
-global.mods = ['50495745934']
-global.prems = ['972529277314'],
+global.mods = ['595982216131']
+global.prems = ['595971253989'],
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
-global.botNumberCode = "" //Ejemplo: +59309090909
+global.botNumberCode = "595994825505" //Ejemplo: +595994836199
 global.confirmCode = "" 
 
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰
@@ -33,7 +31,7 @@ global.confirmCode = ""
 //  en = English         pt = Português
 //  ar = عرب 
 
-global.lenguajeGB = es  //Idioma de LoliBot-MD, Ejemplo: es | en | pt...
+global.lenguajeGB = es  //Idioma de MikuBot-MD, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -93,26 +91,26 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
 global.packname = '𝙏𝙤𝙢𝙖 𝙩𝙪 𝙨𝙩𝙞𝙘𝙠𝙚𝙧'
-global.author = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.author = '𝙈𝙞𝙠𝙪𝘽𝙤𝙩-𝙈𝘿'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
-global.lb = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
-global.vs = '1.5.5'
-global.yt = 'https://www.youtube.com/@LoliBot'
-global.ig = 'tiktok.com/@elrebelde21'
-global.md = 'https://github.com/elrebelde21/LoliBot-MD'
+global.lb = '𝙈𝙞𝙠𝙪𝘽𝙤𝙩-𝙈𝘿'
+global.vs = '2.5.5'
+global.yt = 'https://www.youtube.com/@AdrianOficial905'
+global.ig = 'tiktok.com/@AdrianOficial'
+global.md = 'https://github.com/The-DiosBot-MD/The-MikuBot-MD'
 global.fb = 'https://www.facebook.com/groups/872989990425789/'
 
-global.nna = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A' //Actualización, información sobre el bot
-global.nn = 'https://chat.whatsapp.com/C6sxsP2ckrr2vxMKclOeCD' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/H4hxytyGvucIF1k0UAR7es' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/IlyJBy1fxcw2qAHLSC5YLa' //Grupo del Colaboracion
-global.nnnt2 = 'https://chat.whatsapp.com/K7RzcVdxGqhGP5dCpVENSI' // Grupo COL 2
-global.nnntt = 'https://chat.whatsapp.com/IB9Vs7mZ03BBkH3reCU8Dw' //Grupo COL 3
-global.nnnttt = 'https://chat.whatsapp.com/KlqNmoUcVnsGJxIfATIDrK' //enlace lolibot
-global.nnntttt = 'https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs' //Grupo ayuda sobre el bot
-global.asistencia = 'Wa.me/5492266466080' //Dudas? escríbeme...
+global.nna = 'https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI' //Actualización, información sobre el bot
+global.nn = 'https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI' //Grupo del Colaboracion
+global.nnnt2 = 'https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI' // Grupo COL 2
+global.nnntt = 'https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI' //Grupo COL 3
+global.nnnttt = 'https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI' //enlace lolibot
+global.nnntttt = 'https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI' //Grupo ayuda sobre el bot
+global.asistencia = 'Wa.me/595986637644' //Dudas? escríbeme...
 
 //⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
 
@@ -133,13 +131,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información ⋅.━━━━ ⊰
 
-global.wm = '𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
-global.igfg = '𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
+global.wm = '𝑴𝒊𝒌𝒖𝑩𝒐𝒕-𝑴𝑫'
+global.igfg = '𝑴𝒊𝒌𝒖𝑩𝒐𝒕-𝑴𝑫'
 global.wait = '*⌛ _Cargando..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando..._ ▬▬▬▬▭▭*'
 global.waitttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▭*'
-global.nomorown = '5492266466080'
+global.nomorown = '595971253989'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
 //⊱ ━━━━━.⋅ IMG ⋅.━━━━ ⊰

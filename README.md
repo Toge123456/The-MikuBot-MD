@@ -1,63 +1,46 @@
-> <b>🚀 Versión actual: 1.5.5</b>
+> <b>👑 Versión actual: 1.0.0</b>
  
 <p align="center"> 
-<a href="https://github.com/elrebelde21"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=The-LoliBot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
+<a href="https://github.com/The-DiosBot-MD"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=The-MikuBot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
 </p>
 
 <p align="center">
-<img src="https://telegra.ph/file/9854a169d0eaea13083c7.jpg" alt="LoliBot-MD" width="900"/>
-</p>
-
-<p align="center">
-<a href="#"><img title="LoliBot-MD" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
+<a href="#"><img title="MikuBot-MD" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
 <img src="https://i.pinimg.com/originals/d4/3c/90/d43c902873d4db8c85974dfd0798030b.gif" height="28px">
 </p>  
 
 <p align="center">
-<a href="#"><img title="The-LoliBot-MD" src="https://img.shields.io/badge/LEA TODO EL README-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a> 
-<a href="#"><img title="LoliBot-MD" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge">
+<a href="#"><img title="The-MikuBot-MD" src="https://img.shields.io/badge/LEA TODO EL README-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a> 
+<a href="#"><img title="MikuBot-MD" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge">
 
 <p align="center">   
-<a href="https://github.com/elrebelde21/LoliBot-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/elrebelde21/LoliBot-MD?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/elrebelde21/LoliBot-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/elrebelde21/LoliBot-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/elrebelde21/The-LoliBot-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/elrebelde21/LoliBot-MD?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/The-DiosBot-MD/The-MikuBot-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/The-DiosBot-MD/The-MikuBot-MD?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/The-DiosBot-MD/The-MikuBot-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/The-DiosBot-MD/The-MikuBot-MD?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/The-DiosBot-MD/The-MikuBot-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/The-DiosBot-MD/The-MikuBot-MD?label=Stars&color=yellow&style=flat-square"></a>
 </p> 
 
 <div align="center">
 <a href="https://facebook.com/groups/872989990425789/">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
-<a href="https://www.youtube.com/@elrebelde.21">
+<a href="https://www.youtube.com/@AdrianOficial905">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
-<a href="https://www.tiktok.com/@lolibot_?_t=8ge2zeRZ04r&_r=1" target="_blank"> <img src="https://img.shields.io/badge/-TikTok-%23E4405F?style=for-the-badge&logo=tiktok&logoColor=black" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
+<a href="https://www.tiktok.com/@AdrianOficial_?_t=8ge2zeRZ04r&_r=1" target="_blank"> <img src="https://img.shields.io/badge/-TikTok-%23E4405F?style=for-the-badge&logo=tiktok&logoColor=black" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
 </a>
 </div>
 
 ### 💫 𝗗𝘂𝗱𝗮 𝘀𝗼𝗯𝗿𝗲 𝗲𝗹 𝗯𝗼𝘁? 
 𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝗮𝗺𝗲 ✨
 
-<a href="http://wa.me/5492266466080" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
+<a href="http://wa.me/595994836199" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 
-<a href="http://wa.me/573183650526?text=.estado" target="blank"><img src="https://img.shields.io/badge/Bot oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/595976126756?text=.estado" target="blank"><img src="https://img.shields.io/badge/Bot oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 ### ❇️ 𝙂𝙍𝙐𝙋𝙊𝙎 𝙊𝙁𝙄𝘾𝙄𝘼𝙇𝙀𝙎
 
-<a href="https://chat.whatsapp.com/KzJWBDGlE38A9Lbc6TJExI" target="blank"><img src="https://img.shields.io/badge/𝙂𝙧𝙪𝙥𝙤 𝙇𝙤𝙡𝙞𝙗𝙤𝙩-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
-<a href="https://chat.whatsapp.com/BiozxvjQgo6L2QrfHK9V7R" target="blank"><img src="https://img.shields.io/badge/𝙂𝙧𝙪𝙥𝙤 𝙇𝙤𝙡𝙞𝙗𝙤𝙩 2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/EjiaKJWvzaiAmvktpScgEc" target="blank"><img src="https://img.shields.io/badge/🐈 𝐆𝐚𝐭𝐚𝐁𝐨𝐭 & 𝐋𝐨𝐥𝐢𝐁𝐨𝐭 🥳-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/K7RzcVdxGqhGP5dCpVENSI" target="blank"><img src="https://img.shields.io/badge/𝐋𝐨𝐥𝐢𝐁𝐨𝐭 & 𝐙𝐢𝐫𝐚𝐱𝐁𝐨𝐭 -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/KLpYFsitkgzJ15YQxZrBqO" target="blank"><img src="https://img.shields.io/badge/💖 🅜🅤🅛🅣🅘 🅑🅞🅣🅢 💖-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-<a href="https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs" target="blank"><img src="https://img.shields.io/badge/Grupo ayuda sobre el bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=3000&pause=1000&color=34F6F7&center=falso&vCenter=falso&width=435&lines=%C3%9Anete+y+Conoce+las+%C3%9Altimas+Novedades!!)](https://git.io/typing-svg)
-[![blog](https://img.shields.io/badge/Canal-actulizaciones-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A)  <a href="https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px">
-</a>
+<a href="https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI" target="blank"><img src="https://img.shields.io/badge/GRUPO_OFICIAL_(ES)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 -----
 ### 𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐓𝐄𝐑𝐌𝐔𝐗 - 𝙂𝙄𝙏𝙃𝙐𝘽
 [![blog](https://img.shields.io/badge/Instalacion-Automatica-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/O_j2q5xCg3A?si=rqKUJF-8w1OCeAxx?feature=share)
@@ -66,12 +49,12 @@
 termux-setup-storage
 ```
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/elrebelde21/LoliBot-MD/master/install.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/The-DiosBot-MD/The-MikuBot-MD/master/install.sh | bash
 ```
 -----
 ### 📁 (OPCIÓN 2) 𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐓𝐄𝐑𝐌𝐔𝐗 - 𝘼𝙍𝘾𝙃𝙄𝙑𝙊𝙎 
 > **Note** Descargué y Descomprime
-### [`LoliBot-MD ~ Archivos`](https://github.com/elrebelde21/LoliBot-MD/archive/refs/heads/master.zip)
+### [`MikuBot-MD ~ Archivos`](https://github.com/The-DiosBot-MD/The-MikuBot-MD/archive/refs/heads/master.zip)
 [![blog](https://img.shields.io/badge/Termux-LoliBotMD-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://youtu.be/i1xjB4bmYCc?si=JBYC22-3mBkLpB8c)
 ```bash
@@ -81,7 +64,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-cd storage/downloads/LoliBot-MD-master/LoliBot-MD-master 
+cd storage/downloads/The-MikuBot-MD-master/The-MikuBot-MD-master 
 ```
 ```bash
 yarn install
@@ -97,20 +80,20 @@ npm start
 ```bash
 𝐄𝐒𝐂𝐑𝐈𝐁𝐄 𝐋𝐎𝐒 𝐒𝐈𝐆𝐔𝐈𝐄𝐍𝐓𝐄𝐒 𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐔𝐍𝐎 𝐏𝐎𝐑 𝐔𝐍𝐎:
 > cd 
-> cd LoliBot-MD
+> cd The-MikuBot-MD 
 > npm start
 ```
 ### `𝐎𝐁𝐓𝐄𝐍𝐄𝐑 𝐎𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐆𝐎 𝐐𝐑 
 ```bash
 𝐄𝐒𝐂𝐑𝐈𝐁𝐄 𝐋𝐎𝐒 𝐒𝐈𝐆𝐔𝐈𝐄𝐍𝐓𝐄𝐒 𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐔𝐍𝐎 𝐏𝐎𝐑 𝐔𝐍𝐎:
 > cd 
-> cd LoliBot-MD
+> cd The-MikuBot-MD 
 > rm -rf BotSession
 > npm start
 ```
 ------------------
-### 🚀 USAR LOLIBOT 24/7 EN TERMUX 
-> Ejecutar estos comandos dentro de la carpeta LoliBot-MD
+### 🚀 USAR THE-MIKUBOT-MD 24/7 EN TERMUX 
+> Ejecutar estos comandos dentro de la carpeta The-MikuBot-MD 
 ```bash
 termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
 ``` 
@@ -132,12 +115,12 @@ pm2 stop index
 pm2 start index
 ``` 
 ----
-### 😼 ACTUALIZAR LOLIBOT
+### 👑 ACTUALIZAR THE-MIKUBOT-MD 
 > **Note** Comandos para actualizar LoliBot-MD de forma automática
 ```bash
-grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/elrebelde21/LoliBot-MD/master/update.sh | bash 
+grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/The-DiosBot-MD/The-MikuBot-MD/master/update.sh | bash 
 ```
-#### Para que no pierda su progreso en LoliBot, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
+#### Para que no pierda su progreso en The-MikuBot-MD, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
 > **Warning** Estos comandos solo funcionan para TERMUX, REPLIT, LINUX             
 -----
 ### ✅ QUIERE TENER EL BOT 24/7 ACTIVO ACTIVAR EL BOXMINEHOST  
@@ -206,24 +189,17 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 ----  
 ### `📝 NOTA 📝`
 ```bash
-🔸ESTE REPOSITORIO SE PUBLICA LA VERSIÓN ACTUAL|OFICIAL DE THE-LOLIBOT-MD
+🔸ESTE REPOSITORIO SE PUBLICA LA VERSIÓN ACTUAL|OFICIAL DE THE-MIKUBOT-MD
 🔸ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
 🔸SI VAS A EDITAR POR COMPLETO DEJA LOS CRÉDITOS DEL BOT
 🔸ATENTO A LAS NUEVAS ACTUALIZACIÓNES QUE SE HAGAN EN ESTE REPOSITORIO
 🔸EL ADD/KICK PUEDEN OCASIONAR QUE EL NÚMERO SE VAYA A SOPORTE POR ELLO SE ACTIVA CON #enable restrict
-🔸THE-LOLIBOT-MD, NO SE HACE RESPONSABLE DEL USO, NÚMERO, PRIVACIDAD Y CONTENIDO MANDADO, O USADO O GESTIONADO POR USTEDES O EL BOT.
+🔸THE-MIKUBOT-MD, NO SE HACE RESPONSABLE DEL USO, NÚMERO, PRIVACIDAD Y CONTENIDO MANDADO, O USADO O GESTIONADO POR USTEDES O EL BOT.
 ```
 ----
 
 ### 🌟 EDITOR Y PROPIETARIO DEL BOT
-<a href="https://github.com/elrebelde21"><img src="https://github.com/elrebelde21.png" width="300" height="300" alt="elrebelde21"/></a>
+<a href="https://github.com/The-DiosBot-MD"><img src="https://github.com/The-DiosBot-MD.png" width="300" height="300" alt="The-DiosBot-MD"/></a>
 
-### 🌟 COLABORADORES
-[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
-[![Yesenia57](https://github.com/Yesenia57.png?size=100)](https://github.com/Yesenia57) 
-[![AzamiJs](https://github.com/AzamiJs.png?size=100)](https://github.com/AzamiJs)  
-[![KatashiFukushima](https://github.com/KatashiFukushima.png?size=100)](https://github.com/KatashiFukushima)  
-
-### 🌟 AGRADECIMIENTOS
-[![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=60)](https://github.com/BrunoSobrino) 
-
+## `▢ COLABORADOR DEL BOT` 
+<a href="https://github.com/DavidOficial"><img src="https://github.com/DavidOficial.png" width="100" height="100" alt="DavidOficial"/></a>
